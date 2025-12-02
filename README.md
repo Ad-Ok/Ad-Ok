@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Ad-Ok/Ad-Ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/Ad-Ok/Ad-Ok/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</div>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Эта страница автоматически обновляется с помощью GitHub Actions.
+
+---
+
+### 🛠️ Технологии
+
+<!-- Добавьте свои технологии здесь -->
+
+### 📫 Контакты
+
+<!-- Добавьте свои контакты здесь -->
