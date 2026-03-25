@@ -38,15 +38,6 @@ jobs:
           config_timezone: Asia/Tbilisi
           config_twemoji: true
           
-          # Плагин языков программирования
-          plugin_languages: true
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_other: true
-          plugin_languages_threshold: 0%
-          
           # Автокоммит
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
