@@ -18,7 +18,7 @@ jobs:
           
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 1
           
@@ -54,7 +54,7 @@ jobs:
       
       # Сохранить как артефакт для preview (можно скачать и посмотреть)
       - name: Upload metrics as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: github-metrics-preview
           path: github-metrics.svg
